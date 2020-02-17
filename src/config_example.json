@@ -1,0 +1,15 @@
+{
+    "input_folder": "/path/to/input/",
+    "output_folder": "/path/to/output",
+    "output_doc_num": 10,
+    "window_size": 500,
+    "allow_window_variation": true,
+    "variation_scaling_factor": 1,
+    "min_num_of_authors": 1,
+    "max_num_of_authors": 5,
+    "min_num_of_windows": 10,
+    "max_num_of_windows": 20,
+    "time_period_begin_year": 1800,
+    "time_period_end_year":1950 ,
+    "seed": 1234
+}
